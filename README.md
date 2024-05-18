@@ -24,7 +24,7 @@
 📚 **Favorite teaching website**
 > [C++ 教程 | 爱编程的大丙](https://www.subingwen.cn/cplusplus/)
 
-📝 **CSDN Blob**
+📝 **CSDN Blog**
 >[爱听歌的周童鞋](https://blog.csdn.net/qq_40672115?type=blog)
 
 😊 **Acknowledgements**
