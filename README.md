@@ -39,12 +39,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NVIDIA-AI-IOT&repo=Lidar_AI_Solution&show_owner=true&theme=nightowl" />
 </a>
 
-<a href="https://github.com/ultralytics/ultralytics.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ultralytics&repo=ultralytics&show_owner=true&theme=nightowl" />
-</a>
-
 <a href="https://github.com/shouxieai/tensorRT_Pro.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shouxieai&repo=tensorRT_Pro&show_owner=true&theme=nightowl" />
+</a>
+
+<a href="https://github.com/ultralytics/ultralytics.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ultralytics&repo=ultralytics&show_owner=true&theme=nightowl" />
 </a>
 
 <a href="https://github.com/kalfazed/tensorrt_starter.git">
