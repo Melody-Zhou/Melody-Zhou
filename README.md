@@ -45,23 +45,24 @@
        src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NVIDIA-AI-IOT&repo=Lidar_AI_Solution&show_owner=true&theme=nightowl" />
 </a>
 
-<a href="https://github.com/ultralytics/ultralytics.git">
-  <img align="center"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ultralytics&repo=ultralytics&show_owner=true&theme=nightowl" />
-</a>
-
 <a href="https://github.com/kalfazed/tensorrt_starter.git">
   <img align="center"
        src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kalfazed&repo=tensorrt_starter&show_owner=true&theme=nightowl" />
 </a>
 
-<a href="https://github.com/kalfazed/multi-thread-programming.git">
-  <img align="center"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kalfazed&repo=multi-thread-programming&show_owner=true&theme=nightowl" />
-</a>
 
 <a href="https://github.com/Melody-Zhou/tensorRT_Pro-YOLOv8.git">
   <img align="center"
        src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Melody-Zhou&repo=tensorRT_Pro-YOLOv8&show_owner=true&theme=nightowl" />
+</a>
+
+<a href="https://github.com/ultralytics/ultralytics.git">
+  <img align="center"
+       src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ultralytics&repo=ultralytics&show_owner=true&theme=nightowl" />
+</a>
+
+<a href="https://github.com/stanford-cs336/spring2025-lectures.git">
+  <img align="center"
+       src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=stanford-cs336&repo=spring2025-lectures&show_owner=true&theme=nightowl" />
 </a>
 
