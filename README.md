@@ -37,30 +37,31 @@
 
 <a href="https://github.com/shouxieai/tensorRT_Pro.git">
   <img align="center"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=shouxieai&repo=tensorRT_Pro&show_owner=true&theme=nightowl" />
+       src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shouxieai&repo=tensorRT_Pro&show_owner=true&theme=nightowl" />
 </a>
 
 <a href="https://github.com/NVIDIA-AI-IOT/Lidar_AI_Solution.git">
   <img align="center"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=NVIDIA-AI-IOT&repo=Lidar_AI_Solution&show_owner=true&theme=nightowl" />
+       src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NVIDIA-AI-IOT&repo=Lidar_AI_Solution&show_owner=true&theme=nightowl" />
 </a>
 
 <a href="https://github.com/ultralytics/ultralytics.git">
   <img align="center"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ultralytics&repo=ultralytics&show_owner=true&theme=nightowl" />
+       src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ultralytics&repo=ultralytics&show_owner=true&theme=nightowl" />
 </a>
 
 <a href="https://github.com/kalfazed/tensorrt_starter.git">
   <img align="center"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=kalfazed&repo=tensorrt_starter&show_owner=true&theme=nightowl" />
+       src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kalfazed&repo=tensorrt_starter&show_owner=true&theme=nightowl" />
 </a>
 
 <a href="https://github.com/kalfazed/multi-thread-programming.git">
   <img align="center"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=kalfazed&repo=multi-thread-programming&show_owner=true&theme=nightowl" />
+       src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kalfazed&repo=multi-thread-programming&show_owner=true&theme=nightowl" />
 </a>
 
 <a href="https://github.com/Melody-Zhou/tensorRT_Pro-YOLOv8.git">
   <img align="center"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Melody-Zhou&repo=tensorRT_Pro-YOLOv8&show_owner=true&theme=nightowl" />
+       src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Melody-Zhou&repo=tensorRT_Pro-YOLOv8&show_owner=true&theme=nightowl" />
 </a>
+
